@@ -1,0 +1,47 @@
+alias.
+reset --hard <commit number>
+--hard HEAD~<number>
+reset HEAD <filename>
+checkout -- <filename>
+merge
+branch -d <branch name>
+ls-files
+tag
+---code of copy---
+<br><br>一、点击复制文本框内容的代码:<br><br>
+<script type="text/JavaScript"> 
+    function jsCopy(){ 
+        var e=document.getElementById("content");//对象是content 
+        e.select(); //选择对象 
+</script> 
+<textarea cols="60" name="content" rows="2" id="content">www.511111111112nx.NET</textarea> 
+<input type=button value="复制" onclick="jsCopy()">
+<br><br>二、点击复制文本框内容的代码:<br><br>
+function MM_goToURL() { //v3.0
+var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+function JM_cc(ob){
+var obj=MM_findObj(ob); if (obj) {
+obj.select();js=obj.createTextRange();js.execCommand("Copy");}
+}
+what the fuck
+
+<br><br>一、点击复制文本框内容的代码:<br><br>
+<script type="text/JavaScript"> 
+    function jsCopy(){ 
+        var e=document.getElementById("content");//对象是content 
+        e.select(); //选择对象 
+</script> 
+<textarea cols="60" name="content" rows="2" id="content">www.511111111112nx.NET</textarea> 
+<input type=button value="复制" onclick="jsCopy()">
+<br><br>二、点击复制文本框内容的代码:<br><br>
+function MM_goToURL() { //v3.0
+var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+function JM_cc(ob){
+var obj=MM_findObj(ob); if (obj) {
+obj.select();js=obj.createTextRange();js.execCommand("Copy");}
+}
+testlongthttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
